@@ -21,3 +21,36 @@ esto es un ejemplo de ~~atachado~~
 *esto esta en italica*
 
 **esto esta en negrita**
+
+EJEMPLO DE CARACTERES ESCAPADOS
+
+\*esto es una frase con asteriscos\*
+
+EJEMPLO UNA CITA
+
+>siuuuuuu!!! - CR7
+
+EJEMPLO DE LISTAS
+
+* elemento1
+* 2
+* 3
+
+1. siu
+2. 2312
+3. sada
+
+EJEMPLO CHECKBOX
+
+- [] texto sin marcar
+- [x] marcado hee
+
+EJEMPLO DE EMOJIS
+
+:+1:
+
+EJEMPLOS DE BLOQUE DE CODIGO
+
+``` bash
+  npm install
+```
